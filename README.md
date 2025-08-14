@@ -4,7 +4,7 @@ Day wise materials for the Lab will be pushed here
 
 # Schedule 
 
-Wednesday: 2PM - 5PM for TBA
+Wednesday: 2PM - 5PM for G12
 
 # Venue 
 
