@@ -13,3 +13,7 @@ CSE Lab 2
 # Tutor for G12
 
 Dr. Sanjay Moulik
+
+# TAs for G12
+
+
