@@ -8,4 +8,4 @@ Wednesday: 2PM - 5PM for G12
 
 # Venue 
 
-TBA
+Lab 2
