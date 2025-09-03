@@ -9,3 +9,6 @@ Wednesday: 2PM - 5PM for G12
 # Venue 
 
 CSE Lab 2
+
+# Tutor for G12
+
