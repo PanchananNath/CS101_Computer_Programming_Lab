@@ -18,5 +18,5 @@ Dr. Sanjay Moulik
 
 Srivansh Mishra
 
-Er. Pnahchanan Nath
+Er. Panchanan Nath
 
