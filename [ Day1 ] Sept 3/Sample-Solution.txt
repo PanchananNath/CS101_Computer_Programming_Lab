@@ -1,1 +1,89 @@
+Q1.
 
+#include <stdio.h>
+
+int main() {
+    printf("Hello, IIIT Guwahati!\n");
+    return 0;
+}
+
+
+Q2.
+
+Variable Name	            Valid/Invalid	        Reason
+my_first_variable	        Valid	
+n	                        Valid	
+number	                  Valid	
+2months	                  Invalid	              Cannot start with a digit
+months2	                  Valid	
+months_2	                Valid	
+months 2	                Invalid	              Space not allowed in variable names
+
+
+Q3. 
+
+#include <stdio.h>
+
+int main() {
+    int a = 7, b = 5, c = 0, d = 5, result = 0;
+
+    result = a + b;
+    printf("result = a + b; result = %d\n", result); // 12
+
+    result = a * b;
+    printf("result = a * b; result = %d\n", result); // 35
+
+    result = (a < b);
+    printf("result = (a < b); result = %d\n", result); // 0
+
+    result = (d >= b);
+    printf("result = (d >= b); result = %d\n", result); // 1
+
+    return 0;
+}
+
+
+Q4.
+
+#include <stdio.h>
+
+int main() {
+    float n1, n2, n3, n4, n5, average;
+    printf("Enter five numbers: ");
+    scanf("%f %f %f %f %f", &n1, &n2, &n3, &n4, &n5);
+
+    average = (n1 + n2 + n3 + n4 + n5) / 5.0;
+    printf("Average = %.2f\n", average);
+    return 0;
+}
+
+Q5.
+
+#include <stdio.h>
+
+int main() {
+    float circumference, radius, area;
+    const float PI = 3.14;
+
+    printf("Enter circumference of circle: ");
+    scanf("%f", &circumference);
+
+    radius = circumference / (2 * PI);
+    area = PI * radius * radius;
+    printf("Area = %.2f\n", area);
+    return 0;
+}
+
+Q6. 
+
+#include <stdio.h>
+
+int main() {
+    float length, width, area;
+    printf("Enter length and width of rectangle: ");
+    scanf("%f %f", &length, &width);
+
+    area = length * width;
+    printf("Area = %.2f\n", area);
+    return 0;
+}
