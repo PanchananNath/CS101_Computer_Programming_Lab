@@ -1,6 +1,6 @@
 # CS101_Computer_Programming_Lab
 
-Day wise materials for the Lab will be pushed here 
+Day wise materials for the Lab will be pushed here.
 
 # Schedule 
 
