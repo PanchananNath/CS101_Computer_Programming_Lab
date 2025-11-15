@@ -26,7 +26,7 @@ Satyam
 
 Er Panchanan Nath (TA)
 
-Krishna Agarwal (students)
+Krishna Agarwal (student)
 
-Mohammad Tahoor (students)
+Mohammad Tahoor (student)
 
