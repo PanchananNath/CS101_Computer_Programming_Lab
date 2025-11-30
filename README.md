@@ -26,7 +26,7 @@ Satyam
 
 Er Panchanan Nath (TA)
 
-Krishna Agarwal (student)
+Krishna Agarwal (student, profile: https://github.com/KrishnaAgarwal7) 
 
-Mohammad Tahoor (student)
+Mohammad Tahoor (student, profile: https://github.com/TaH00R)
 
